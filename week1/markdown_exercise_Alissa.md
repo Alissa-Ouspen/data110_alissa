@@ -96,14 +96,10 @@ console.log(greet("World"));
 ### Task List & Footnote
 
 #### To do for Week 1:
-- [x] Set up GitHub repository for DATA 201
-- [ ] Go through pdf Slides
+- [x] Set up GitHub repository for DATA 110
 - [x] Go through GitHub Markdown slides
+- [x] Read and implement instructions in [GitHub intro](https://github.com/Reben80/Data110-Fall2026-CRN21802/blob/main/Github%20Project%20Repo.pdf)
 - [x] Complete Assignment 1
-- [ ] Complete Assignment 2
-- [ ] Read textbook sections [^*]
+- [ ] Read textbook Ch. 1 & 2 [^*]
 
-[^*]: Find out which sections of which books match up with this material
-
-
-
+[^*]: Which book:  Cole or Claus? 
