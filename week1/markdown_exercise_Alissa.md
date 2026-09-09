@@ -23,7 +23,6 @@
 - Third item
 ---
 ### New Line
-
 Instead of a backslash,  
 end the line with two spaces  
 and return
